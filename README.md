@@ -27,4 +27,3 @@ SimpleEncryptor se = SimpleEncryptor(MAXIMUM_LENTH_OF_STRING);
 string decrypted data = se.getDecryptData(ENCRYPTED_TEXT,DECRYPT_KEY);
 
 
-4
