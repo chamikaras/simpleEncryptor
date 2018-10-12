@@ -1,6 +1,7 @@
 # simpleEncryptor
-This is authored by chamikara samarasekara
+Authored by Chamikara Samarasekara
 
+This is not method of advanced entricyption
 
 1.you can simply encrypt your String with random genarated key
 2.you can't decrypt to string without your decrypt key
